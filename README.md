@@ -1,0 +1,1 @@
+Відкрити в IntelliJ IDEA, і натиснути Shift+F10.
