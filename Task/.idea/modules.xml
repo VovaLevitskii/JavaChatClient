@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TaskClient/TaskClient.iml" filepath="$PROJECT_DIR$/TaskClient/TaskClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TaskServer/TaskServer.iml" filepath="$PROJECT_DIR$/TaskServer/TaskServer.iml" />
+    </modules>
+  </component>
+</project>
