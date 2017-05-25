@@ -3,6 +3,9 @@ before start the program, need set VM Options "-Djava.security.policy = .java.po
 Commands entered in the following format:
 
 exit
+
 ping
+
 echo someText
+
 filePath
